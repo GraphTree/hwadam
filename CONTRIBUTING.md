@@ -1,27 +1,27 @@
 # Contributions
 
-External code, documentation, and other creative contributions are not being
-accepted yet. Please do not open a contribution pull request until the project
-announces a contribution process.
+**Interim policy — external contributions are not currently being accepted.**
+Please do not open a pull request or submit code, documentation, data, or other
+creative work for inclusion until the project announces that contributions are
+open.
 
-Before accepting contributions, the project needs to:
+The repository is currently a prototype. Its published software is available
+under the [PolyForm Noncommercial License 1.0.0](LICENSE). That
+license does not invite contributions or create a contributor agreement.
 
-1. Confirm the legal rights holder for Hwadam and the person authorized to sign
-   agreements for that holder.
-2. Have a software licensing lawyer review and finalize the
-   [contributor agreement draft](docs/CLA-DRAFT.md), including the treatment of
-   employer-owned work, applicable law, and signature records.
-3. Provide a working private signing route and retain a signed agreement from
-   each applicable rights holder **before** accepting that holder's work.
+Before contributions open, the project will publish:
 
-The proposed agreement would let contributors retain ownership while giving
-the Hwadam rights holder permission to distribute and relicense accepted
-contributions under noncommercial, commercial, and proprietary terms. This file
-does not itself obtain those rights or bind anyone. A pull request, issue
-comment, or `Signed-off-by` line does not substitute for the finalized agreement.
+1. The verified rights holder and an authorized contact.
+2. A reviewed contributor agreement and its treatment of employer-owned work,
+   third-party material, and patent rights. The current planning document is
+   [CLA-DRAFT.md](CLA-DRAFT.md); it is not in force and must not be signed.
+3. A private signing and record-retention process.
+4. A contribution review process and an updated notice here.
 
-GitHub's [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-state that contributions to a repository with a license notice are ordinarily
-licensed under that repository's terms, unless a separate agreement applies.
-That default does not establish the additional rights needed for Hwadam's
-planned commercial relicensing of contributions.
+Until then, issues and discussions may be used for questions or feedback, but
+they should not include material intended for automatic inclusion in the
+project. Do not submit confidential information, credentials, personal data,
+or third-party material that you do not have permission to share.
+
+This interim policy is informational. It is not a contributor agreement and a
+pull request, issue comment, or `Signed-off-by` line does not transfer rights.

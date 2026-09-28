@@ -1,9 +1,12 @@
-# Hwadam
+# 화담 (Hwadam)
 
-Create your decision-making shadow.
+Build on your decisions and experience.
 
 This repository currently contains project documentation and a license file, but
 no Hwadam software source code has been released here yet.
+
+Architecture and product specification notes are maintained locally during the
+early design phase and are not part of the public prototype repository.
 
 ## License
 
@@ -26,5 +29,5 @@ and add an accurate copyright notice and commercial contact route.
 
 External contributions are not currently being accepted. See
 [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. The
-[contributor agreement draft](docs/CLA-DRAFT.md) is a planning document; it is
-not an agreement with any contributor.
+[contributor agreement draft](CLA-DRAFT.md) is a planning document; it is not
+an agreement with any contributor.

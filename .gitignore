@@ -1,0 +1,10 @@
+# Local agent instructions and generated working files
+.agents/
+
+# Architecture notes are kept local during the early design phase.
+docs/architecture/
+
+# Local system/editor files
+.DS_Store
+.idea/
+.vscode/
