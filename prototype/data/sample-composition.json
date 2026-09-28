@@ -1,0 +1,20 @@
+{
+  "id": "comp-demand",
+  "name": "일별 수요 예측",
+  "desc": "판매 이력을 정리하고, 다음 주의 수요를 예측합니다.",
+  "input": "input-demo",
+  "nodes": [
+    "read",
+    "normalize",
+    "forecast",
+    "export"
+  ],
+  "params": {
+    "horizon": 14,
+    "model": "seasonal",
+    "range": "all"
+  },
+  "version": 1,
+  "published": true,
+  "dirty": false
+}
